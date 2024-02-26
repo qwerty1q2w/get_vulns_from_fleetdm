@@ -1,6 +1,6 @@
+#!/usr/bin/env python3
 import requests
 import json
-import time
 import configparser
 from datetime import datetime
 
