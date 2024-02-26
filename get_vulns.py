@@ -36,7 +36,7 @@ def main():
                         'cve_id': vulnerability['cve'],
                         'host_name': host_data['host']['hostname'],
                         'pkg_name': software_item['name'],
-                        'source': software_item['source'],
+                        'pkg_source': software_item['source'],
                         'version': software_item['version'],
                         'os_version': host_data['host']['os_version'],
                         'platform': host_data['host']['platform'],
