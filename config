@@ -1,0 +1,3 @@
+[fleet]
+api_token = tokentoken
+base_url = https://fleet.tututu.com/api/v1
